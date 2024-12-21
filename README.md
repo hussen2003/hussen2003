@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Neon Knights](https://github.com/hussen2003/NeonKnights)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **PCB Design**
 
 - 📫 How to reach me **hussenpremier03@gmail.com**
 
